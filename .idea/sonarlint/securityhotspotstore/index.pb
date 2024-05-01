@@ -1,0 +1,21 @@
+
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+A
+lesson-13/main.js,2\9\29b8793b0111b3073d0491670704f0d401b830bd
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+w
+G.idea/sonarlint/issuestore/2/7/275d783e298228506068436512433d343feb52aa,7\a\7a815f6d0a2d3a2d3d14916e1861118541e8c8d8
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+Å
+Q.idea/sonarlint/securityhotspotstore/2/7/275d783e298228506068436512433d343feb52aa,6\5\656e63ac78f0e3565927253313972dab26c9a477
+K
+lesson-13/package-lock.json,6\9\69ea7b30a00a6e313cf721b69c535fa132d422ad
+Å
+Q.idea/sonarlint/securityhotspotstore/2/9/29b8793b0111b3073d0491670704f0d401b830bd,5\0\507445585b3a9aaf82c2c09a6a342fcff1c57b80
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
