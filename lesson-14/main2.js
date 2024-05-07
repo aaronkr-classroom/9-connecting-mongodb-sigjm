@@ -9,6 +9,8 @@ const port = 3001,
   Subscriber = require("./models/subscriber"),
   app = express();
 
+
+
 /**
  * @TODO: Listing 14.1 (p. 205)
  * Mongoose를 사용한 MongoDB 연결
@@ -63,3 +65,6 @@ app.use(errorController.resInternalError);
 app.listen(app.get("port"), () => {
   console.log(`Server running at http://localhost:${app.get("port")}`);
 });
+
+
+
