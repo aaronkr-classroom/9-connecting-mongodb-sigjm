@@ -2,6 +2,13 @@
 <!-- @TODO: Listing 15.3 (p. 217)-->
 
 <!-- 구독자 정보들을 탐색 (forEach)-->
+<% subscribers.forEach(function(s) { %>
 
-<!-- 뷰로 구독자 데이터 삽입 -->
+    <!-- 뷰로 구독자 데이터 삽입 -->
+<div class="subscriber">
+    <h2><%= s.name %></h2>
+    <p><%= s.email %></p>
+</div>
+
+<% }); %>
 
