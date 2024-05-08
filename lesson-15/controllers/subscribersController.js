@@ -72,7 +72,7 @@ exports.saveSubscriber = (req, res) => {
    * Listing 15.8 (223-224)
    */
   // 새로운 구독자 저장
-  newSubscriber
+  Subscriber
     .save()
     .then((result) => {
       // 프라미스 새 구독자 저장
